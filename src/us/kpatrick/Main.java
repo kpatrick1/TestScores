@@ -4,6 +4,11 @@ import org.junit.Test;
 
 import java.util.ArrayList;
 
+/**
+ * Main Application for Calculating given test scores as an array list
+ * @author kpatr
+ * @version 1.0.0
+ */
 public class Main {
 
     public static void main(String[] args) throws InvalidTestScores {
